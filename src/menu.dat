@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+index.php Основная страница
+login.php Вход на сайт
+register.php Регистрация
+login.php?exit=1 Выход
+=======
+index.php Hello, world!
+login.php Auth
+register.php Registration
+>>>>>>> c657244c8ec8ef821948f20b1dd06fcfa125aa37

@@ -1,0 +1,92 @@
+.gradient{
+    background: rgb(144,144,250);
+background: linear-gradient(270deg, rgba(144,144,250,1) 9%, rgba(173,137,137,1) 51%, rgba(129,230,251,1) 100%);
+}
+
+
+html, body{
+    height: 100%;
+    overflow-x: hidden;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.menu{
+    margin-top: 80px;
+    width: calc(100% - 10px);
+    padding: 5px;
+    background: linear-gradient(180deg, #FFFFFF, #DDDDDD);
+    height: 34px;
+}
+
+.menuitem{
+    margin-top: -18px;
+    padding: 5px;
+    display: inline-block;
+    border: 1px solid #f1f1f1;
+    text-align: center;
+}
+
+.header {
+    color: #FFFFFF;
+   background: rgb(144,144,250);
+    background: linear-gradient(270deg, rgba(144,144,250,1) 9%, rgba(173,137,137,1) 51%, rgba(129,230,251,1) 100%);
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.wrapper{
+    padding-bottom: 0;
+}
+
+.main_content{
+    background: rgb(144,144,250);
+    background: linear-gradient(270deg, rgba(144,144,250,1) 9%, rgba(173,137,137,1) 51%, rgba(129,230,251,1) 100%);
+}
+
+.footer_content{
+    
+}
+
+.dropdown-pages{
+    text-align: left;
+    margin-left: 20px;
+}
+
+.form-login{
+    text-align: right;
+    padding-bottom: 20px;
+}
+
+.btn-login{
+    text-align: center;
+}
+
+.page-header{
+    font-size: 1.25rem;
+    color: #FFFFFF;
+}
+
+.waves{
+    width: 100%;
+}
+
+.cubes-reg{
+    height: 200;
+}
+
+.forest-log{
+    height:200;
+}
+
+.card { /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+        padding-top: 20px;
+}
+
+.pagination{
+    margin-top: 20px;
+}
